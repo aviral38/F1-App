@@ -9,31 +9,40 @@ Download the App Apk on -https://drive.google.com/file/d/1al16eFfe4iLVrbLZoDuiJH
 
 
 <p align="center">
-  <img src="https://github.com/aviral38/ApplicationDev/blob/master/images%20of%20f1%20app/Homepage.jpg" width="480" height="720">
+  <img src="https://github.com/aviral38/ApplicationDev/blob/master/New_f1_app_image/login_option.jpg" width="360" height="720">
 </p>
 <p align="center">
-  <img src="https://github.com/aviral38/ApplicationDev/blob/master/images%20of%20f1%20app/driver%20standing.jpg" width="480" height="720">
+  <img src="https://github.com/aviral38/ApplicationDev/blob/master/New_f1_app_image/friver_standing.jpg" width="360" height="720">
 </p>
 <p align="center">
-  <img src="https://github.com/aviral38/ApplicationDev/blob/master/images%20of%20f1%20app/constructor%20standing.jpg" width="480" height="720">
+  <img src="https://github.com/aviral38/ApplicationDev/blob/master/New_f1_app_image/driver_standing2.jpg" width="360" height="720">
 </p>
 <p align="center">
-  <img src="https://github.com/aviral38/ApplicationDev/blob/master/images%20of%20f1%20app/newss.jpg" width="480" height="720">
+  <img src="https://github.com/aviral38/ApplicationDev/blob/master/New_f1_app_image/constructor.jpg" width="360" height="720">
 </p>
 <p align="center">
-  <img src="https://github.com/aviral38/ApplicationDev/blob/master/images%20of%20f1%20app/profile.jpg" width="480" height="720">
+  <img src="https://github.com/aviral38/ApplicationDev/blob/master/New_f1_app_image/news2.jpg" width="360" height="720">
 </p>
 <p align="center">
-  <img src="https://github.com/aviral38/ApplicationDev/blob/master/images%20of%20f1%20app/select%20driver.jpg" width="480" height="720">
+  <img src="https://github.com/aviral38/ApplicationDev/blob/master/New_f1_app_image/news%20full.jpg" width="360" height="720">
 </p>
 <p align="center">
-  <img src="https://github.com/aviral38/ApplicationDev/blob/master/images%20of%20f1%20app/Select%20team.jpg" width="480" height="720">
+  <img src="https://github.com/aviral38/ApplicationDev/blob/master/New_f1_app_image/profile.jpg" width="360" height="720">
 </p>
 <p align="center">
-  <img src="https://github.com/aviral38/ApplicationDev/blob/master/images%20of%20f1%20app/registration.jpg" width="480" height="720">
+  <img src="https://github.com/aviral38/ApplicationDev/blob/master/New_f1_app_image/profile2.jpg" width="360" height="720">
 </p>
 <p align="center">
-  <img src="https://github.com/aviral38/ApplicationDev/blob/master/images%20of%20f1%20app/login.jpg" width="480" height="720">
+  <img src="https://github.com/aviral38/ApplicationDev/blob/master/New_f1_app_image/fav_driver.jpg" width="360" height="720">
+</p>
+<p align="center">
+  <img src="https://github.com/aviral38/ApplicationDev/blob/master/New_f1_app_image/Fav_team.jpg" width="360" height="720">
+</p>
+<p align="center">
+  <img src="https://github.com/aviral38/ApplicationDev/blob/master/New_f1_app_image/signup.jpg" width="360" height="720">
+</p>
+<p align="center">
+  <img src="https://github.com/aviral38/ApplicationDev/blob/master/New_f1_app_image/login2.jpg" width="360" height="720">
 </p>
 
 
